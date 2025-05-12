@@ -30,3 +30,8 @@
 	  printf("key for the second person is : %lld\n",power(a,y,n));
 	  return 0;
 	 }
+
+Enter the value of n and g : 23 5
+Enter the value of x for the first person : 6
+Enter the value of y for the second person : 15
+
