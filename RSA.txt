@@ -105,3 +105,11 @@ int main(int argc, char* argv[]) {
 	return 0;
 }
 
+
+Enter any two prime numbers: 5 11
+Value of e: 7
+Value of d: 23
+Enter some numerical data: 9
+The cipher text is: 3
+The decrypted text is: 9
+
